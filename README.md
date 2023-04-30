@@ -1,5 +1,5 @@
 # Bitcoin Hash
-Calculates the hash of a bitcoin block.
+Calculates the hash of a bitcoin block. Adapted from https://github.com/jaymine/Bitcoin-Hash-verifier.
 
 ### Run
 ```bash
