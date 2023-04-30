@@ -1,0 +1,2 @@
+# bitcoinhash
+Bitcoin hash calculator
